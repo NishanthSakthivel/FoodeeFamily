@@ -1,7 +1,7 @@
 import React from "react";
 import BrandImg from "../Assets/Brand.png";
 import { Link } from "react-router-dom";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 
 
 const NavBar = () => {
