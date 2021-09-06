@@ -1,0 +1,21 @@
+.wrapper_card {
+  position: relative;
+  max-width: 940px;
+  margin: 0px auto;
+  margin-top: 3%;
+  background: url(../Assets/CardBgLadyWhite.jpg) no-repeat center ;
+
+  /* background-color: aqua; */
+  /* background-repeat: no-repeat; */
+  /* background-size:cover ; 
+    background-size: center; */
+ -webkit-background-size: cover;
+  -moz-background-size: cover; 
+  -o-background-size: cover; 
+  background-size: cover;
+  box-shadow: 0 0px 9px rgba(0, 0, 0, 1);
+  border-radius: 10px;
+   overflow: hidden; 
+  min-height: 500px;
+  padding: 20px;
+}

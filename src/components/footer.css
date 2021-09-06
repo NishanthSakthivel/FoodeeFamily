@@ -1,0 +1,10 @@
+.footer_icon{
+    -webkit-transition: .2s all ease;
+    -moz-transition: .2s all ease;
+    transition: .2s all ease;
+}
+.footer_icon:hover{
+     font-size: 30px;
+    margin-top: -10px;
+    color: rgb(216, 62, 24);
+}
