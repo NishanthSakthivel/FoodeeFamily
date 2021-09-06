@@ -1,7 +1,7 @@
 import React from "react";
-import Card from "./UI/Card";
+
 import Footer from "./components/Footer";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route,  } from "react-router-dom";
 
 import "./UI/Card.css";
 import "./App.css";
